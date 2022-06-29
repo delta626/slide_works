@@ -1,0 +1,10 @@
+a = 'name: Ismail'
+b = 'surname: Sbaziev'
+j = 'age: 30'
+c = 'gender: male'
+d = 'work: own diner, i.m a chef'
+f = 'place to study: lightcode - python on-line' 
+g = 'direction: python developer'
+h = 'programming skill: none'
+i = 'salary: as much as poosible'
+print(a, b, j, c, d, f, g, h, i, sep = '\n')
